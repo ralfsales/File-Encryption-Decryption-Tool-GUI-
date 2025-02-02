@@ -1,0 +1,9 @@
+
+[2025-01-22 12:00:00] INFO: Application started
+[2025-01-22 12:01:00] WARNING: High memory usage
+[2025-01-22 12:02:00] ERROR: Unable to connect to the database
+[2025-01-22 12:03:00] INFO: Scheduled job executed successfully
+[2025-01-22 12:04:00] ERROR: Failed to retrieve user data
+[2025-01-22 12:05:00] WARNING: Disk space running low
+[2025-01-22 12:06:00] INFO: User logged in
+[2025-01-22 12:07:00] INFO: Backup completed successfully
